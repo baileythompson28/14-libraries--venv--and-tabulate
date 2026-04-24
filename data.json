@@ -1,0 +1,53 @@
+[
+  {
+    "name": "SpongeBob SquarePants",
+    "purchases": [
+      {
+        "item_purchased": "Krabby Patty",
+        "selling_price": 3.5,
+        "quantity": 3,
+        "cost_to_produce": 1.25
+      },
+      {
+        "item_purchased": "Jellyfishing Net",
+        "selling_price": 12.0,
+        "quantity": 1,
+        "cost_to_produce": 5.5
+      }
+    ]
+  },
+  {
+    "name": "Patrick Star",
+    "purchases": [
+      {
+        "item_purchased": "Coral Bits",
+        "selling_price": 2.25,
+        "quantity": 4,
+        "cost_to_produce": 0.75
+      },
+      {
+        "item_purchased": "Rock Pillow",
+        "selling_price": 9.0,
+        "quantity": 1,
+        "cost_to_produce": 3.0
+      }
+    ]
+  },
+  {
+    "name": "Squidward Tentacles",
+    "purchases": [
+      {
+        "item_purchased": "Clarinet Reed",
+        "selling_price": 6.5,
+        "quantity": 2,
+        "cost_to_produce": 2.0
+      },
+      {
+        "item_purchased": "Fancy Hair Wax",
+        "selling_price": 14.0,
+        "quantity": 1,
+        "cost_to_produce": 6.0
+      }
+    ]
+  }
+]
